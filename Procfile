@@ -1,1 +1,1 @@
-web: nginx -p $PORT
+web: nginx
