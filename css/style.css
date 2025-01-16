@@ -45,6 +45,20 @@ body {
   background: rgba(0, 0, 0, 0.7);
   content: "";
 }
+/* Example CSS for styling the download button */
+.download-btn button {
+  padding: 10px 20px;
+  background-color: #0a2a3d;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  z-index: 1000;
+}
+
+.download-btn button:hover {
+  background-color: #0b4f6c;
+}
 
 a {
   color: #0a2a3d;
